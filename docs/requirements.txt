@@ -1,1 +1,2 @@
 update the requirements file to new data
+adding the new data in this file
